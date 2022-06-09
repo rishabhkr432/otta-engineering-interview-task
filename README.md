@@ -25,7 +25,7 @@ The reaction data consists of four columns:
 
 **Task**: The similarity score between two users is the number of jobs which they both like. Find the two users with the highest similarity.
 
-**Answer**: _[Enter the two user IDs & their similarity score here]_
+**Answer**: _[Similarity between user1: 5193 and user2: 1791 is 181]_
 
 ### Task 2
 
@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: The similarity score between two companies is the number of users who like at least one job at both companies. Using both the `reactions.csv` and `jobs.csv` data, find the two companies with the highest similarity score.
 
-**Answer**: _[Enter the two company IDs & their similarity score here]_
+**Answer**: _[Similarity between company1: 92 and company2: 46 is 104]_
 
 ### Task 3
 
@@ -51,7 +51,23 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: _[Write your answer here (300 words max)]_
+**Answer**: _[My most difficult project was the React Javascript framework I built while working at IBM. I didn't take any pictures of it as it was highly confidential. 
+This project is one of my favourites.
+Solana's wallet app is built using react-native and Typescript. 
+Wallet specification: 
+•	Connects to Solana mainnet-beta via RPC nodes.
+•	Uses JSON-RPC to verify transactions.
+•	Used to view the balance.
+•	It can be used to send cryptocurrencies to your friends.
+•	You can view your NFTs in the app.
+What was the most challenging thing?
+•	Understanding Web3JS concepts and implementing them.
+•	Integrating swaps with Jupitar's aggregator. 
+o	Get the most optimal swap route.
+o	Get the best rate and result of the transaction.
+•	Setting up a cache system for preloaded users
+]_
+
 
 ## Submission
 
