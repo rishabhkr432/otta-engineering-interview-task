@@ -65,7 +65,7 @@ What was the most challenging thing?
 •	Integrating swaps with Jupitar's aggregator. 
 o	Get the most optimal swap route.
 o	Get the best rate and result of the transaction.
-•	Setting up a cache system for preloaded users
+•	Setting up a cache system for preloaded user.
 ]_
 
 
